@@ -1,0 +1,14 @@
+SharpLearn Planning
+
+Components: 
+	-fun_objs
+	-kernels
+	-linear_models
+	-optimizers 
+	-encoders 
+	-neural net?
+	-learning_rate_getters? 
+
+Libraries: 
+	-Math.NET or AlgLib or LiveCharts
+	-ScottPlot or OxyPlot 
